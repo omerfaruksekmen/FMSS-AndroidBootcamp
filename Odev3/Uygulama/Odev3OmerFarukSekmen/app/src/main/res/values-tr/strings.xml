@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Uzay Keşfi</string>
+    <string name="ozellikler">Özellikler</string>
+    <string name="digerOzellikler">Atmosfer ve Yörünge</string>
+    <string name="agirlik">6.416x10²¹</string>
+    <string name="yaricap">3,396 km</string>
+    <string name="yercekimi">3.7 m/s²</string>
+    <string name="minSicaklik">-153 °C</string>
+    <string name="maxSicaklik">20 °C</string>
+    <string name="yorungeHizi">86,677 km/h</string>
+    <string name="agirlikBaslik">Ağırlık</string>
+    <string name="yaricapBaslik">Yarıçap</string>
+    <string name="yercekimiBaslik">Yer Çekimi</string>
+    <string name="minSicaklikBaslik">Min. Sıcaklık</string>
+    <string name="maxSicaklikBaslik">Max. Sıcaklık</string>
+    <string name="yorungeHiziBaslik">Yörünge Hızı</string>
+    <string name="arastirma">Araştırma</string>
+    <string name="gozlem">Gözlem</string>
+    <string name="gezegenAdi">Mars</string>
+    <string name="gezegenAciklama">Güneş Sisteminde soğuk bir çöl gezegeni</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Space Explore</string>
+    <string name="ozellikler">Features</string>
+    <string name="digerOzellikler">Atmosphere and Orbite</string>
+    <string name="agirlik">6.416x10²¹</string>
+    <string name="yaricap">3,396 km</string>
+    <string name="yercekimi">3.7 m/s²</string>
+    <string name="minSicaklik">-153 °C</string>
+    <string name="maxSicaklik">20 °C</string>
+    <string name="yorungeHizi">86,677 km/h</string>
+    <string name="agirlikBaslik">Mass</string>
+    <string name="yaricapBaslik">Radius</string>
+    <string name="yercekimiBaslik">Gravity</string>
+    <string name="minSicaklikBaslik">Min Temperature</string>
+    <string name="maxSicaklikBaslik">Max Temperature</string>
+    <string name="yorungeHiziBaslik">Orbital Speed</string>
+    <string name="arastirma">Researches</string>
+    <string name="gozlem">Observation</string>
+    <string name="gezegenAdi">Mars</string>
+    <string name="gezegenAciklama">A cold desert planet in the solar system</string>
+</resources>
